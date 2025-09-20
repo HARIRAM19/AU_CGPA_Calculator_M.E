@@ -13,9 +13,3 @@ requires = ["PyQt5"]
 
 [tool.briefcase.app.cgpa_calculator.windows]
 installer = true
-
-[tool.briefcase.app.cgpa_calculator.macOS]
-installer = true
-
-[tool.briefcase.app.cgpa_calculator.linux]
-installer = true
