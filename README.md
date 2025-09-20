@@ -21,7 +21,7 @@ A **PyQt5 GUI Application** to calculate **SGPA and CGPA** for M.E students of *
 
 ### Windows (Using Installer)
 
-1. Go to [Releases](https://github.com/HARIRAM19/cgpa-calculator/releases) on GitHub.
+1. Go to [Releases](https://github.com/HARIRAM19/AU_CGPA_Calculator_M.E/releases/tag/v1.0) on GitHub.
 2. Download the Install for Windows (`.msi`).
 3. Run the installer and follow the instructions.
 
@@ -87,4 +87,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 * Author: HARIRAM S
 * GitHub: [https://github.com/HARIRAM19](https://github.com/HARIRAM19)
+
 * Email: [itsme6341@gmail.com](itsme6341@gmail.com)
