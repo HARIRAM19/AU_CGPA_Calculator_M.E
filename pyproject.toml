@@ -1,0 +1,21 @@
+[tool.briefcase]
+project_name = "Anna University CGPA Calculator"
+formal_name = "CGPA Calculator"
+bundle = "com.example.cgpa"
+author = "HARIRAM S"
+description = "A GUI app to calculate SGPA/CGPA for Anna University College of Engineering M.E students R2023"
+license.file = "LICENSE"
+version = "1.0.0"
+
+[tool.briefcase.app.cgpa_calculator]
+sources = ["src/cgpa_calculator"]
+requires = ["PyQt5"]
+
+[tool.briefcase.app.cgpa_calculator.windows]
+installer = true
+
+[tool.briefcase.app.cgpa_calculator.macOS]
+installer = true
+
+[tool.briefcase.app.cgpa_calculator.linux]
+installer = true
