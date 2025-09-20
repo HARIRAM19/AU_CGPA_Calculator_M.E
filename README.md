@@ -28,9 +28,8 @@ A **PyQt5 GUI Application** to calculate **SGPA and CGPA** for M.E students of *
 ### From Source (Requires Python 3.8+)
 
 ```bash
-git clone https://github.com/YourUsername/cgpa-calculator.git
+git clone https://github.com/HARIRAM19/AU_CGPA_Calculator_M.E
 cd cgpa-calculator
-pip install -r requirements.txt
 python -m cgpa_calculator.__main__
 ```
 
@@ -89,3 +88,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 * GitHub: [https://github.com/HARIRAM19](https://github.com/HARIRAM19)
 
 * Email: [itsme6341@gmail.com](itsme6341@gmail.com)
+
